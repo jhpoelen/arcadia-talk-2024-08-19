@@ -101,7 +101,7 @@ preston cat\
  > bug.tiff
 ```
 
-![Bug](img/BMT121_BMT0009388_stacked_01.tiff)
+![Bug](img/BMT121_BMT0009388_stacked_01.jpg)
 
 ---
 
