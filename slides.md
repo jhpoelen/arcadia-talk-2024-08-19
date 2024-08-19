@@ -78,25 +78,26 @@ Likely will not work due to intricate network of dependencies.
 
 ... by adding some digital fingerprints of the image.
 
-> Museum für Naturkunde. (2024). Photo of Specimen BMT0009388. Zenodo. https://doi.org/10.5072/zenodo.13342373 **hash://md5/f052cbac398bf340a620c421bfefa16d** **hash://sha256/69df9b5bc5df5619448ade01c92d0a5e20bcec2ab4c8b668d2db56f9e5cce6e7**
+> Museum für Naturkunde. (2024). Photo of Specimen BMT0009388. Zenodo. https://doi.org/10.5072/zenodo.13342373 
+> **hash://md5/f052cbac398bf340a620c421bfefa16d**
 
 ## How To Retrieve This Bug Picture 40 Years From Now?
 
 
-... by searching the world (in, and beyond, the internet) for the content with the unique fingerprint hash://md5/7d62417b5b689ed91dcd25f10c9c2132 .
+... by searching the world (in, and beyond, the internet) for the content with the unique fingerprint hash://md5/f052cbac398bf340a620c421bfefa16d .
 
- * https://linker.bio/hash://md5/7d62417b5b689ed91dcd25f10c9c2132
+ * https://linker.bio/hash://md5/f052cbac398bf340a620c421bfefa16d
  * https://zenodo.org/records/13342373/files/BMT121_BMT0009388_stacked_01.tiff
- * ```preston cat --remote https://zenodo.org hash://md5/7d62417b5b689ed91dcd25f10c9c2132```
+ * ```preston cat --remote https://zenodo.org hash://md5/f052cbac398bf340a620c421bfefa16d```
  * ```preston cat --remote https://softwareheritage.org hash://sha256/69df9b5bc5df5619448ade01c92d0a5e20bcec2ab4c8b668d2db56f9e5cce6e7```
- * ```preston cat --remote https://linker.bio,https://zenodo.org hash://md5/7d62417b5b689ed91dcd25f10c9c2132```
+ * ```preston cat --remote https://linker.bio,https://zenodo.org hash://md5/f052cbac398bf340a620c421bfefa16d```
  
 ## Let Us Carry Our Bug Pictures Into The Future...
 
 ```
 preston cat\
  --remote "https://zenodo.org"\
- hash://md5/7d62417b5b689ed91dcd25f10c9c2132\
+ hash://md5/f052cbac398bf340a620c421bfefa16d\
  > bug.tiff
 ```
 
