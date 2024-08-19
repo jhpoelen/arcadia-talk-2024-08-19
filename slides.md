@@ -20,7 +20,7 @@ date: 2024-08-19
 
 ## So How'd You Cite This Bug?
 
-> Museum für Naturkunde. (2024). Photo of Specimen BMT0009388. Zenodo. https://doi.org/10.5072/zenodo.13342373
+> Museum für Naturkunde. (2024). Photo of Specimen BMT0009388. Zenodo. https://doi.org/10.5281/zenodo.13342373
 
 
 ![Bug Landing Page](img/BMT121_BMT0009388_citation.png)
@@ -31,7 +31,7 @@ date: 2024-08-19
 Like this?
 
 ```
-curl -L "https://doi.org/10.5072/zenodo.13342373"\
+curl -L "https://doi.org/10.5281/zenodo.13342373"\
  > bug.tiff 
 ```
 
@@ -56,7 +56,7 @@ Take 2.
 
  * turn on the internet (still there?)
  * open a web browser
- * load https://doi.org/10.5072/zenodo.13342373
+ * load https://doi.org/10.5281/zenodo.13342373
    * and rely on a delicate and complex socio-technical network 
  * inspect page
  * use mouse to click on a link that looks like a bug picture
@@ -68,7 +68,7 @@ Take 2.
 
 ## How To Retrieve This Bug Picture 40 Years From Now?
 
-> Museum für Naturkunde. (2024). Photo of Specimen BMT0009388. Zenodo. https://doi.org/10.5072/zenodo.13342373
+> Museum für Naturkunde. (2024). Photo of Specimen BMT0009388. Zenodo. https://doi.org/10.5281/zenodo.13342373
 
 Likely will not work due to intricate network of dependencies.
 
@@ -78,7 +78,7 @@ Likely will not work due to intricate network of dependencies.
 
 ... by adding some digital fingerprints of the image.
 
-> Museum für Naturkunde. (2024). Photo of Specimen BMT0009388. Zenodo. https://doi.org/10.5072/zenodo.13342373 
+> Museum für Naturkunde. (2024). Photo of Specimen BMT0009388. Zenodo. https://doi.org/10.5281/zenodo.13342373 
 > **hash://md5/f052cbac398bf340a620c421bfefa16d**
 
 ## How To Retrieve This Bug Picture 40 Years From Now?
