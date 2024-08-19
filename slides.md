@@ -66,7 +66,7 @@ Take 2.
 
 ![DOI Redirection Sequence Diagram](img/doi-redirection.png)
 
-## How To Retrieve This Cat Picture 40 Years From Now?
+## How To Retrieve This Bug Picture 40 Years From Now?
 
 > Museum für Naturkunde. (2024). Photo of Specimen BMT0009388. Zenodo. https://doi.org/10.5072/zenodo.13342373
 
